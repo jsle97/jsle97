@@ -8,7 +8,7 @@ I bridge the world of **advanced web development** with unique expertise in **CN
 
 ## 🚀 My Core Competencies & Technologies:
 
-*   **Frontend:** HTML, CSS (8/10), JavaScript (9/10), **jQuery (9/10 – mastery level)**. Crafting advanced, dynamic UIs without relying on heavy frameworks.
+*   **Frontend:** HTML+CSS (8/10), **JavaScript (9/10), *jQuery (9/10 – mastery level)***. Crafting advanced, dynamic UIs without relying on heavy frameworks.
 *   **Backend:** Node.js (with an emphasis on native modules; 9/10), PHP (5/10). Building robust and scalable server-side applications.
 *   **AI & LLM:**
     *   **Prompt Engineering (9.5/10):** Expertise in designing and optimizing prompts to elicit desired responses and behaviors from Large Language Models.
