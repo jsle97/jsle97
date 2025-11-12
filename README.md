@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jakub Śledzikowski!
 
-A **Self-Taught IT Engineer** with over 14 years of hands-on coding experience and a deep passion for building **efficient, standalone technology solutions from the ground up**. My journey in IT is one of organic exploration, where I develop my skills by solving real-world problems, often avoiding unnecessary dependencies and striving for a profound understanding of fundamental mechanisms.
+A **IT Engineer** with over 14 years of hands-on coding experience and a deep passion for building **efficient, standalone technology solutions from the ground up**. My journey in IT is one of organic exploration, where I develop my skills by solving real-world problems, often avoiding unnecessary dependencies and striving for a profound understanding of fundamental mechanisms.
 
 I bridge the world of **advanced web development** with unique expertise in **CNC machine programming**, which translates into an engineering mindset, a keen eye for precision, and a focus on optimization.
 
@@ -8,15 +8,15 @@ I bridge the world of **advanced web development** with unique expertise in **CN
 
 ## 🚀 My Core Competencies & Technologies:
 
-*   **Frontend:** HTML+CSS (8/10), **JavaScript (9/10), *jQuery (9/10 – mastery level)***. Crafting advanced, dynamic UIs without relying on heavy frameworks.
+*   **Frontend:** HTML+CSS (8/10), **JavaScript (9.5/10), *jQuery (9/10 – mastery level)***. Crafting advanced, dynamic UIs without relying on heavy frameworks.
 *   **Backend:** Node.js (with an emphasis on native modules; 9/10), PHP (5/10). Building robust and scalable server-side applications.
 *   **AI & LLM:**
     *   **Prompt Engineering (9.5/10):** Expertise in designing and optimizing prompts to elicit desired responses and behaviors from Large Language Models.
     *   **Practical Exploration:** Intensive testing and utilization of Open Source models (<70B parameters) on **rented GPU infrastructure** (3x RTX A5000, 72GB VRAM for 5 months).
-    *   **API Experience:** Extensive work with various LLM provider APIs (Gemini, Anthropic, Mistral, xAi, Openai...), with a consumption of **billions of tokens** (over 1.6 billion on Gemini API alone, ~4-4.5 billion total).
+    *   **API Experience:** Extensive work with various LLM provider APIs (Gemini, Anthropic, Mistral, xAi, Openai...), with a consumption of **billions of tokens** (over 2 billion on Gemini API alone, ~9 billion total).
     *   **Tooling Development:** Building systems for unified LLM access, AI pipelines, and agents to enhance work with language models.
 *   **Databases & Storage:** Designing and implementing lightweight, file-based JSON databases (with relational capabilities), caching systems (LRU, TTL), and Redis-like in-memory solutions.
-*   **Tools & Other:** C++ (2.5/10), Web Scraping, Parsers (HTML), Template Engines, Middleware (HTTP, Security, Proxy), Token Generation, Testing Systems.
+*   **Tools & Other:** C++ a bit, Web Scraping, Parsers (HTML), Template Engines, Middleware (HTTP, Security, Proxy), Token Generation, Testing Systems.
 *   **CNC Programming:** 7-8 years of experience with CNC machines (Fanuc, Heidenhain, Siemens, Meldas, Mazatrol), contributing to precision and analytical thinking in IT.
 ---
 
