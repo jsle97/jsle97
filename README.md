@@ -4,11 +4,11 @@ A **IT Engineer** with over 14 years of hands-on coding experience and a deep pa
 
 ---
 
-front: **vanilla js**
-&&
-back: **native modules nodejs**
-===
-is enought
+front: **vanilla js**  
+&&  
+back: **native modules nodejs**  
+\===  
+is enought  
 
 ---
 
