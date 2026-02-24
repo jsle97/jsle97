@@ -34,11 +34,3 @@ is enought
 @ >2017 start create own libs  
 @ ~07.2024 start use AI models  
 @ 23.02.2026 decited to relase on github all my libs/scripts - slowly upload them  
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsle-eu&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsle-eu&layout=compact&theme=radical" alt="Top Languages" />
-</p>
--->
